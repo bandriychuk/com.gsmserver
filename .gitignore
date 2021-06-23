@@ -51,3 +51,5 @@ Thumbs.db
 /.gradle/
 /build/
 /.idea/
+/.allure/
+/allure-results/
